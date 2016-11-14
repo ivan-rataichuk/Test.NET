@@ -2,4 +2,5 @@ Name:
 Magda Nikita
 Denis Polozhyi
 Mikhail Perebeynos
-Pogorelov Aleksandr
+Yatsenko Oleksandr
+
