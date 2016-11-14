@@ -4,3 +4,4 @@ Denis Polozhyi
 Mikhail Perebeynos
 Yatsenko Oleksandr
 Aleksandr Pogorelov
+Ivan Rataichuk
